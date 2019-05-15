@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://juvaivooc.transactional.blog/sitemap.xml
